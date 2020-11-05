@@ -1,4 +1,4 @@
-#Projet - MOGPL
+
 Résolution d'un casse-tête : Rush HourTM
 1. Introduction
 On s'intéresse dans ce projet à la résolution d'un casse-tête intitulé Rush
