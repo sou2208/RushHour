@@ -10,10 +10,7 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Vector;
 
-/**
- *
- * @author didi
- */
+
 public class RhcRhm_sou {
 //--------------------Variables----------------------------------------------------------------------------------------------
 public static int nbr_lignes_Matrice=6;
